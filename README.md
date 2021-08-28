@@ -17,7 +17,7 @@ data in question. We converted the timestamp data provided using the DATE, ROUND
 calculate the data needed to perform the analysis. We also utilized Text to Column, Filters, Pivot Tables and Pivot Charts to create, sort and
 visualize the data needed to delivery insights from the data. 
 
-![Excel.PNG](/jstawarz/kickstarter-analysis/blob/main/resources/Excel.PNG)
+![Excel.PNG](/images/Excel.PNG)
 
 ## Results
 

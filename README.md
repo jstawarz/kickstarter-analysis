@@ -17,7 +17,7 @@ data in question. We converted the timestamp data provided using the DATE, ROUND
 calculate the data needed to perform the analysis. We also utilized Text to Column, Filters, Pivot Tables and Pivot Charts to create, sort and
 visualize the data needed to delivery insights from the data. 
 
-![This is an image](/jstawarz/kickstarter-analysis/tree/main/resouces/Excel.PNG)
+![Excel.PNG](/jstawarz/kickstarter-analysis/tree/main/resouces/Excel.PNG)
 
 ## Results
 
@@ -27,14 +27,14 @@ Based on the analysis, the months of May, June and July show the highest numbers
 failures also occured during these months, May being the highest, July and October tying for second, and June in third. However, percentage wise, December
 seems to be the worst month for theater related Kickstarters, with only 37 succusses, 35 failures and 3 cancellations. 
 
-![This is an image](/jstawarz/kickstarter-analysis/tree/main/resouces/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](/jstawarz/kickstarter-analysis/tree/main/resouces/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Looking at the outcomes versus goals data, as the chart suggests, the rate of a successful campaign deceases the higher the fundraising goals, while the
 failure rate increases the higher the fundraising goal. The data would suggest that a lower fundraising goal would increase the chances of success. 
 
-![This is an image](/jstawarz/kickstarter-analysis/tree/main/resouces/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](/jstawarz/kickstarter-analysis/tree/main/resouces/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
